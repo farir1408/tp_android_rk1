@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="itemSize">48dp</dimen>
+    <dimen name="itemMargin">16dp</dimen>
+    <dimen name="textSize">56sp</dimen>
+</resources>
